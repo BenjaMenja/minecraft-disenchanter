@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "disenchant:disenchanter"
+        }
+      }
+    },
+    "rewards": {
+      "function": "disenchant:craft"
+    }
+  }
+  

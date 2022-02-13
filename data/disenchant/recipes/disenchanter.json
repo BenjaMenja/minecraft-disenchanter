@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "bsb",
+      "ded",
+      "ggg"
+    ],
+    "key": {
+      "b": {
+        "item": "minecraft:blaze_rod"
+      },
+      "s": {
+        "item": "minecraft:sticky_piston"
+      },
+      "d": {
+        "item": "minecraft:diamond_block"
+      },
+      "e": {
+        "item": "minecraft:enchanting_table"
+      },
+      "g": {
+        "item": "minecraft:gold_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:knowledge_book"
+    }
+  }
+  
